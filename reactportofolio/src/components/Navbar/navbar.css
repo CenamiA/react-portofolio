@@ -1,0 +1,15 @@
+.navbar{
+    height: 5rem;
+    margin: 0 auto;
+    padding: 1rem 2rem ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+
+}
+
+.imagelogo{
+    object-fit: cover;
+    height: 0.2rem;
+    width: 0.1rem;
+}
